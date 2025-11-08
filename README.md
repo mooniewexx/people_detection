@@ -101,7 +101,7 @@ min уверенность: 0.300
 max уверенность: 0.929
 ```
 
-## Пример визуализации
+## Описание визуализации
 
 На выходном видео (`output/crowd_detected.mp4`) каждый человек имеет:
 
@@ -109,9 +109,6 @@ max уверенность: 0.929
 * цвет рамки, постоянный для этого ID (задано через фиксированный seed),
 * уверенность (`confidence`),
 * подпись `"person"`.
-
-![пример](https://github.com/ultralytics/assets/raw/main/imgs/example_person_detection.jpg)
-
 ---
 
 ## Выводы и анализ результата
@@ -149,8 +146,3 @@ max уверенность: 0.929
 **Айка (Junior Data Science candidate)**
 Email: *m.kyzyl@mail.ru*
 GitHub: *https://github.com/mooniewexx/people_detection*
-
----
-
-Хочешь, я сделаю Markdown-версию этого README, готовую к прямому копированию в `README.md` (с отступами, эмодзи и ссылками, как на GitHub)?
-Она будет красиво отрендерена при просмотре репозитория.
