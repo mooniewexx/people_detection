@@ -144,5 +144,7 @@ max уверенность: 0.929
 ## Автор
 
 **Айка (Junior Data Science candidate)**
+
 Email: *m.kyzyl@mail.ru*
+
 GitHub: *https://github.com/mooniewexx/people_detection*
