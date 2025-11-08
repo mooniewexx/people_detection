@@ -31,7 +31,8 @@ people_detection/
 ├── requirements.txt             # зависимости проекта
 ├── crowd.mp4                    # входное видео
 ├── output/
-│   └── crowd_detected.mp4       # выходное видео с детекцией
+│   ├── crowd_detected.mp4       # выходное видео с детекцией
+│   └── crowd_detected_2.mp4     # видео с детекцией (пробный вывод улучшенной версии с ID)
 └── src/
     ├── main.py                  # основной пайплайн
     ├── detector.py              # детектор людей (YOLOv8)
