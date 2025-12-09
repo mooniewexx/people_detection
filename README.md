@@ -144,7 +144,7 @@ max уверенность: 0.929
 
 ## Автор
 
-**Айка (Junior Data Science candidate)**
+**Монгун-Ай**
 
 Email: *m.kyzyl@mail.ru*
 
